@@ -1,0 +1,5 @@
+.DS_Store
+.vscode/
+/04_instructional_team/lessons/pdf/*
+/04_instructional_team/lessons/html/*
+/04_instructional_team/lessons/pptx/*
